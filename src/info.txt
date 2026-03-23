@@ -1,1 +1,3 @@
 This repository is created for checking or training the git and github version control system.
+
+NOTE : THIS REPO IS ONLY CREATED FOR ASSIGNMENT PURPOSE. EVERYTHING IS DUMMY!
