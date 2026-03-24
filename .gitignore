@@ -1,5 +1,5 @@
 # Ignoring all Jupyter Notebooks from repository
-notebook/*.ipynb
+*.ipynb
 
 # Ignoring __pycache__ folder from src/
-src/__pycache__/
+**/__pycache__/
