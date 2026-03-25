@@ -7,7 +7,7 @@ I have created some projects demonstrate my interest in this field, some of them
 2. Twitter Sentiment Analysis
 3. Medical Image Classification (Ongoing)
 
-## **What I Learned**
+## **What I Learned during this Assignment**
 * **Version Control**: How to track changes over time without losing work.
 * **Branching Strategy**: How to work on new features without breaking the "main" production code.
 * **Collaboration**: Using Pull Requests for code reviews and team integration.
