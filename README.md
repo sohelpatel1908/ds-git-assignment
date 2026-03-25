@@ -2,7 +2,7 @@
 **My name is Sohel Patel.**
 I completed my graduation in **BCA (Science)** in 2024 with **7.99 CGPA** from **Savitribai Phule Pune University**.
 I completed professional **Data Science & Data Analytics** Course from **Fortune Cloud Technologies Institude**.
-I have created some projects demonstrate my interest in this field, some of them are:
+I have created some projects which demonstrate my interest in this field, some of them are:
 1. AI Powered Resume Screening System
 2. Twitter Sentiment Analysis
 3. Medical Image Classification (Ongoing)
