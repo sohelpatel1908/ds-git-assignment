@@ -2,4 +2,4 @@
 *.ipynb
 
 # Ignoring __pycache__ folder from src/
-**/__pycache__/
+__pycache__/
